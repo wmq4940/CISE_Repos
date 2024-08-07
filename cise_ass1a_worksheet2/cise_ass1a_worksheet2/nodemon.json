@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "text": "ts",
+    "ignore": ["src/**/*.spec.ts"],
+    "exec": "nest start"
+}
